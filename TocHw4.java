@@ -1,3 +1,13 @@
+/****************************************************************************
+
+author: Ù‡¹ÚÈç
+date: 2014/6/25
+student ID: H34001123
+description: This homework is about parsing the house information and 
+find the road that "has most trading records spread in #max_distinct_month"
+
+****************************************************************************/
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.io.*;
